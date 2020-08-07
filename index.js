@@ -1,22 +1,12 @@
-  const config = require("./config.json");
+const config = require("./config.json");
 const http = require("http");
 const express = require("express");
-const app = express();
-app.get("/", (request, response) => {
-  response.sendStatus(200);
-});
-app.listen(process.env.PORT);
-setInterval(() => {
-  http.get(`http://red-eco.glitch.me/`);
-}, 280000);
-
 const Discord = require("discord.js");
 const fs = require("fs");
 const bot = new Discord.Client({ disableEveryone: true });
 const client = new Discord.Client({ disableEveryone: true });
 const prefix = config.prefix;
 const token = config.token;
-
 
 bot.commands = new Discord.Collection();
 bot.aliases = new Discord.Collection();
