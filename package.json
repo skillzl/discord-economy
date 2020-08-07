@@ -1,13 +1,13 @@
 {
-  "name": "redmusic",
-  "version": "10.0.0",
-  "description": "redmusic",
+  "name": "dsicord-economy",
+  "version": "1.0.0",
+  "description": "economy commands written in javascript (discord.ks)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "author": "redcreators",
+  "author": "skillzl",
   "license": "ISC",
   "dependencies": {
     "3amyah": "^1.0.0",
