@@ -12,7 +12,6 @@ module.exports.run = async (client, message, args) => {
  if (author !== null && timeout - (Date.now() - author) > 9000) {
       let time = (timeout - (Date.now() - author));
     
-    
         message.channel.send(`**${member.user.tag}**, you aleardy fished recently, try again in \`${time.minutes} minutes, ${time.seconds} seconds\`.`)
       } else {
 
