@@ -24,7 +24,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 ## 📋 License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE.md) file for details
+This project is licensed under the MIT - see the [LICENSE](LICENSE.md) file for details
 
 [discord]: https://discord.gg/2g8YrrhPEb
 [dev]: https://skillzl.cash/
