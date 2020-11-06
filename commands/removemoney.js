@@ -3,8 +3,8 @@ const db = require("quick.db");
 
 module.exports.run = async (bot, message, args) => {
   const ownerID = [
-    "503983707502411787",
-    "659038301331783680"
+    "ownerID",
+    "ownerID"
   ];
   if (!ownerID.includes(message.author.id)) return;
 
@@ -14,12 +14,12 @@ module.exports.run = async (bot, message, args) => {
     db.subtract(`money_${user.id}`, args[1])
     let bal = await db.fetch(`money_${user.id}`)
 
-    message.channel.send(`<:1665_disagree:675011520408584212> Removed \`${args[1]}\` credits his balance is: \`${bal}\` credits.`)
+  message.channel.send(`Taken \`${args[1]}\` credits from **${user}**'s balance.\n> Current balance: \`${bal}\` credits.`)
 
 };
 
 
 module.exports.help = {
   name:"removemoney",
-  aliases: ["rm"]
+  aliases: ["removecredits", "takemoney", "takecredits"]
 }
