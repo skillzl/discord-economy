@@ -8,7 +8,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 ## 👨‍💻 Developing on pieces
 
-### Knowladge requirements
+### Knowledge requirements
 
 -   <img src="https://i.imgur.com/c5d7pwC.png" alt="Javascript" width="36" align="center"> [`Javascript`] To edit the code or add more stuff.
 
