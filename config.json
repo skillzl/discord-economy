@@ -1,8 +1,9 @@
 {
-	"prefix" : "!",
-	"token" : "token discord bot",
+  "prefix" : "!",
+  "token" : "yourDiscordApplicationToken",
+	
   "activity": {
     "streaming": false,
-    "game": "idk mate, kinda coding"
+    "game": "yourDiscordApplicationActivity"
   }
 }
