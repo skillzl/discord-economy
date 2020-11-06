@@ -20,7 +20,8 @@ Remember to 🌟 this Github if you 💖 it.
 ## 🔗 Useful links
 
 -   <img src="https://i.imgur.com/XWqj2km.png" alt="Discord" width="32" align="center"> [`Support Server`][discord]
--   <img src="http://cdn.charliewave.me/favicon.ico" alt="Patreon" width="32" align="center"> [`Developer`][dev]
+-   <img src="http://cdn.charliewave.me/favicon.ico" alt="Developer" width="32" align="center"> [`Developer`][dev]
+-   <img src="http://cdn.charliewave.me/circle-cropped.ico" alt="Charliewave" width="32" align="center"> [`Charliewave Project`][charliewave]
 
 ## 📋 License
 
@@ -28,3 +29,4 @@ This project is licensed under the MIT - see the [LICENSE](LICENSE.md) file for 
 
 [discord]: https://discord.gg/2g8YrrhPEb
 [dev]: https://skillzl.cash/
+[charliewave]: https://github.com/charliewave-me
