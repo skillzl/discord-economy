@@ -1,7 +1,6 @@
 <h3 align="center">
     Discord Economy Commands using quick.db npm package.
 </h3>
-
 <hr>
 
 Remember to 🌟 this Github if you 💖 it.
