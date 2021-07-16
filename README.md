@@ -20,7 +20,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 -   <img src="https://i.imgur.com/XWqj2km.png" alt="Discord" width="32" align="center"> [`Support Server`][discord]
 -   <img src="https://skillzl.cash/favicon.ico" alt="Developer" width="32" align="center"> [`Developer`][dev]
--   <img src="https://www.demo.charliewave.me/favicon.ico" alt="Charliewave" width="32" align="center"> [`Charliewave Project`][charliewave]
+-   <img src="https://www.charliewave.me/favicon.ico" alt="Charliewave" width="32" align="center"> [`Charliewave Project`][charliewave]
 
 ## 📋 License
 
