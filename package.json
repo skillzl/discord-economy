@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
-  "keywords": ["discord-js", "discord-economy", "discordjs-bot", "discordbot"],
+  "keywords": ["discord-js", "discord-economy", "discordjs-bot", "discordbot", "economybot", "discordmoney"],
   "author": "skillzl",
   "license": "MIT"
 }
