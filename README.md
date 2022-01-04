@@ -20,7 +20,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 -   <img src="https://i.imgur.com/XWqj2km.png" alt="Discord" width="32" align="center"> [`Support Server`][discord]
 -   <img src="https://skillzl.me/favicon.ico" alt="Developer" width="32" align="center"> [`Developer`][dev]
--   <img src="https://camo.githubusercontent.com/1d7a0b94a9c6d42ae6d3828a41e2b607528d343b4559a0c048638cd8050e0b0e/68747470733a2f2f692e696d6775722e636f6d2f5030534a6742382e706e67o" alt="chrlwv-project" width="32" align="center"> [`chrlwv-project`][chrlwv]
+-   <img src="https://cdn.discordapp.com/attachments/789862793846325248/927970938664914975/circlecrop.png" alt="chrlwv-project" width="32" align="center"> [`chrlwv-project`][chrlwv]
 
 ## 📋 License
 
