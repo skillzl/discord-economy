@@ -20,7 +20,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 -   <img src="https://i.imgur.com/XWqj2km.png" alt="Discord" width="32" align="center"> [`Support Server`][discord]
 -   <img src="https://skillzl.me/favicon.ico" alt="Developer" width="32" align="center"> [`Developer`][dev]
--   <img src="https://cdn.discordapp.com/attachments/789862793846325248/927970938664914975/circlecrop.png" alt="chrlwv-project" width="32" align="center"> [`chrlwv-project`][chrlwv]
+-   <img style="border-radius: 300px;" src="https://japi.rest/discord/v1/user/902937010103275581/avatar?size=512" width="32"/> [`chrlwv-project`][chrlwv]
 
 ## 📋 License
 
@@ -30,4 +30,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 [discord]: https://discord.gg/RPRfpnM6MZ
 [dev]: https://skillzl.me/
-[chrlwv]: https://github.com/charliewave-me
+[chrlwv]: https://chrlwv.tech
