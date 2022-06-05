@@ -32,7 +32,7 @@ client.on("ready", async () => {
   if (config.activity.streaming == true) {
     client.user.setActivity(config.activity.game, {url: 'https://twitch.tv/username'});
   } else {
-    client.user.setActivity(config.activity.game, {type: 'WATCHING'});//PLAYING, LISTENING, WATCHING
+    client.user.setActivity(config.activity.game, {type: 'WATCHING'}); // PLAYING, LISTENING, WATCHING, STREAMING
     client.user.setStatus('dnd'); // dnd, idle, online, invisible
   }
 });
