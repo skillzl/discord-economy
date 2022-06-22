@@ -14,7 +14,7 @@ Remember to 🌟 this Github if you 💖 it.
 ## 🏗️ Packages used
 
 -   <img src="https://i.imgur.com/I1MGCQ9.png" alt="Discord.js" width="29" align="center"> [`@discord.js`] Main lib used to build this client.
--   <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-MDq9o71qnYEA88UG6px%2Favatar-1596494419402.png?generation=1596494420056601&alt=media" alt="QuickDB" width="29" align="center"> [`@quick.db`] Starter database lib; easy to learn using it.
+-   <img src="[https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-MDq9o71qnYEA88UG6px%2Favatar-1596494419402.png?generation=1596494420056601&alt=media](https://www.gitbook.com/cdn-cgi/image/width=40,height=40,fit=contain,dpr=1,format=auto/https%3A%2F%2F1739409839-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-MDq9o71qnYEA88UG6px%252Favatar-1596494419402.png%3Fgeneration%3D1596494420056601%26alt%3Dmedia)" alt="QuickDB" width="29" align="center"> [`@quick.db`] Starter database lib; easy to learn using it.
 
 ## 🔗 Useful links
 
@@ -24,7 +24,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 ## 📋 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ![Alt](https://repobeats.axiom.co/api/embed/57520159ec4888489d1ffbbdc0c14a67b029c07a.svg "Repobeats analytics image")
 
