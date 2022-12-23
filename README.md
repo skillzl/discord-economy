@@ -20,7 +20,7 @@ Remember to 🌟 this Github if you 💖 it.
 
 -   <img src="https://i.imgur.com/XWqj2km.png" alt="Discord" width="32" align="center"> [`Support Server`][discord]
 -   <img src="https://skillzl.me/favicon.ico" alt="Developer" width="32" align="center"> [`Developer`][dev]
--   <img style="border-radius: 300px;" src="https://japi.rest/discord/v1/user/902937010103275581/avatar?size=512" width="32"/> [`chrlwv-project`][chrlwv] (open-source too)
+-   <img style="border-radius: 300px;" src="https://japi.rest/discord/v1/user/1049708735821516830/avatar?size=512" width="32"/> [`chrlwv-project`][chrlwv] (open-source client)
 
 ## 📋 License
 
@@ -28,6 +28,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![Alt](https://repobeats.axiom.co/api/embed/57520159ec4888489d1ffbbdc0c14a67b029c07a.svg "Repobeats analytics image")
 
-[discord]: https://discord.gg/RPRfpnM6MZ
+[discord]: https://discord.gg/4g4FWJ2WTH
 [dev]: https://skillzl.me/
-[chrlwv]: https://github.com/chrlwv
+[chrlwv]: https://github.com/skillzl/chrlwv-app
