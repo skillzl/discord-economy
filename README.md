@@ -19,8 +19,8 @@ Remember to 🌟 this Github if you 💖 it.
 ## 🔗 Useful links
 
 -   <img src="https://i.imgur.com/XWqj2km.png" alt="Discord" width="32" align="center"> [`Support Server`][discord]
--   <img src="https://skillzl.me/favicon.ico" alt="Developer" width="32" align="center"> [`Developer`][dev]
--   <img style="border-radius: 300px;" src="https://japi.rest/discord/v1/user/1049708735821516830/avatar?size=512" width="32"/> [`chrlwv-project`][chrlwv] (open-source client)
+-   <img  style="border-radius: 300px;" src="https://avatars.githubusercontent.com/u/45903404?s=400&u=b765fc732fceac2fe34bbba095ed6afdcbf6952b&v=4" alt="Developer" width="32" align="center"> [`Developer`][dev]
+-   <img style="border-radius: 300px;" src="https://raw.githubusercontent.com/skillzl/eres/main/src/assets/eres-crop.png?token=GHSAT0AAAAAACEJL55PCBF6BOZCSDUBP2SQZE63YMQ" width="32"/> [`eres`][eres] (open-source client)
 
 ## 📋 License
 
@@ -28,6 +28,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ![Alt](https://repobeats.axiom.co/api/embed/57520159ec4888489d1ffbbdc0c14a67b029c07a.svg "Repobeats analytics image")
 
-[discord]: https://discord.gg/4g4FWJ2WTH
-[dev]: https://skillzl.me/
-[chrlwv]: https://github.com/skillzl/chrlwv-app
+[discord]: https://discord.gg/P6YKMfZrbT
+[dev]: https://github.com/skillzl
+[eres]: https://github.com/skillzl/eres
